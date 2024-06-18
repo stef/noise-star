@@ -22,7 +22,7 @@ SHA256, is in `/noise-all/api-IKpsk2/IKpsk2_25519_ChaChaPoly_SHA256`.
 Clone and build HACL\*.
 
 ```bash
-git checkout https://github.com/project-everest/hacl-star
+git clone https://github.com/project-everest/hacl-star
 cd hacl-star
 export HACL_HOME=$(pwd)
 cd dist/gcc-compatible
